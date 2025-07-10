@@ -8,7 +8,7 @@
     </classes>
   </test> Test
  -->  
- <groups>
+<!--  <groups>
  <run>
  <include name ="Sanity"/>
   <include name ="Regression"/>
@@ -16,7 +16,7 @@
 </run>
 
  </groups>
- 
+  -->
  <listeners>
  <listener class-name="utilities.ExtentReportmanager"/>
  
